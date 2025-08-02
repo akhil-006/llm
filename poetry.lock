@@ -1027,6 +1027,17 @@ pyside6 = ["pyside6"]
 test = ["flaky", "ipyparallel", "pre-commit", "pytest (>=7.0,<9)", "pytest-asyncio (>=0.23.5)", "pytest-cov", "pytest-timeout"]
 
 [[package]]
+name = "ipynb-py-convert"
+version = "0.4.6"
+description = "Convert .py files runnable in VSCode/Python or Atom/Hydrogen to jupyter .ipynb notebooks and vice versa"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "ipynb-py-convert-0.4.6.tar.gz", hash = "sha256:06c09644f85949939fa749a00fb7f398a0bfcad0e34320ca6666e0cb44b7ea74"},
+]
+
+[[package]]
 name = "ipython"
 version = "9.4.0"
 description = "IPython: Productive Interactive Computing"
@@ -3785,4 +3796,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = "3.11.4"
-content-hash = "2e69be2bf0381a6c27db9fc359542630d6b792a8bcebed2058b487c0a2779d56"
+content-hash = "9ba04479b8b73462715fb0cde434b038e2c0e1ff68516a7b34dd0a12f597efbe"
