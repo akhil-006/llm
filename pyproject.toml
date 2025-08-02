@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "llm"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["akhil agarwal <akhil_agarwal006@yahoo.in>"]
 readme = "README.md"
