@@ -1,2 +1,2 @@
 # llm
-large Langua Models using LangChain, LangSmith
+large Language Models using LangChain, LangSmith
